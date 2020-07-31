@@ -1,7 +1,9 @@
-### Hi there 👋
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paladin-t&count_private=true&show_icons=true)
 
 <!--
 **paladin-t/paladin-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+See https://github.com/anuraghazra/github-readme-stats to custom your own.
 
 Here are some ideas to get you started:
 
