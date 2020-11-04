@@ -1,3 +1,4 @@
+[Chat](https://paladin-t.github.io/) |
 [Homepage](https://paladin-t.github.io/) |
 [Steam](https://store.steampowered.com/developer/tony) |
 [Itch](https://tonywang.itch.io/) |
