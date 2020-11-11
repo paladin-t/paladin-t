@@ -1,5 +1,5 @@
 [Chat](https://paladin-t.github.io/) |
-[Homepage](https://paladin-t.github.io/) |
+[Home](https://paladin-t.github.io/) |
 [Steam](https://store.steampowered.com/developer/tony) |
 [Itch](https://tonywang.itch.io/) |
 [Twitter](https://twitter.com/wangrenxin)
