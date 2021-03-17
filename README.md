@@ -1,4 +1,4 @@
-[ [Chat](https://paladin-t.github.io/) | [Steam](https://store.steampowered.com/developer/tony) | [Itch](https://tonywang.itch.io/) | [Twitter](https://twitter.com/wangrenxin) ]
+[ [Website](https://paladin-t.github.io/) | [Steam](https://store.steampowered.com/developer/tony) | [Itch](https://tonywang.itch.io/) | [Twitter](https://twitter.com/wangrenxin) ]
 
 <!--
 ![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paladin-t&count_private=true&show_icons=true)
